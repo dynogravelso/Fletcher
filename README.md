@@ -1,8 +1,19 @@
 ## Project Fletcher
-###### Week 6.5,7 & 8
 
 ![](Fletcher.jpg)
 
+#### Objective
+
+One of the most highly anticipated game releases in 2018 was Red Dead Redemption 2. With an estimated budget of 800 million USD and universal critical acclaim, there is a lot of value in analyzing sentiment from the general public and players alike. I aim to gather insight from topic modeling and sentiment analysis on tweets related to this iconic game.
+
+#### Results
+
+* Performed PCA, LDA and Word2Vec on tweets collected via the Twitter API and determined the most discussed and interesting topics with K-means and DBSCAN. These results can be utilized to determine the future focus of the game studio on future game updates to further build on their success. 
+* Provided a framework for analysis of other tweets on other games and other types of media.
+
+[Project Fletcher Final Slides](fletcher_rdr2.pdf)
+
+##### Project prompt is as follows:
 
 #### Back story:
 
